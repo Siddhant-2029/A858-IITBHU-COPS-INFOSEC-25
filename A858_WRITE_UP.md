@@ -43,7 +43,7 @@ This is where the **real challenge** began: finding the **4 pieces of a QR code*
 
 ---
 
-### 🔹  [QR Piece 3](https://drive.google.com/file/d/1zJweWEFbkHMhip4J5ViQvFXBcUOgTbVV/view?usp=sharing)
+### 🔹  [QR Piece 3](https://drive.google.com/file/d/1CKNWR9pAFsA37W7PlaU6LZ2xc4XVcIhT/view?usp=sharing)
 - Found in a Reddit post titled **“Help needed”**, which showed a picture of a screen.  
 - In that post, we noticed another subreddit mentioned: **Ali3n1nva5i0n**.  
 - Opening that subreddit, we found a post titled **“There you go”**, which directly contained **QR Piece 3**.  
@@ -51,7 +51,7 @@ This is where the **real challenge** began: finding the **4 pieces of a QR code*
 
 ---
 
-### 🔹  [QR Piece 1](https://drive.google.com/file/d/1zJweWEFbkHMhip4J5ViQvFXBcUOgTbVV/view?usp=sharing)
+### 🔹  [QR Piece 1](https://drive.google.com/file/d/1TzboJWF-IeGz-yddXXABQ0vwXL3_3Tpy/view?usp=sharing)
 This was one of the trickiest parts.  
 
 1. In a Reddit post titled **“Found a new cipher! The game of secrets just got fishy”**, we were given a **Python code snippet** that could decode encoded text.  
@@ -80,7 +80,7 @@ This was already a tough challenge, but it got even harder with the last piece.
 
 ---
 
-### 🔹  [QR Piece 4](https://drive.google.com/file/d/1zJweWEFbkHMhip4J5ViQvFXBcUOgTbVV/view?usp=sharing)
+### 🔹  [QR Piece 4](https://drive.google.com/file/d/1YQaeeYPaGjqkaQhMGBkFFHXgsNEU2i2q/view?usp=sharing)
 The hardest fragment to obtain.  
 
 1. After re-checking several Reddit posts, we carefully examined **all pictures and videos**.  
@@ -127,5 +127,6 @@ The hardest fragment to obtain.
 - Google Drive exploration  
 - Clan chat exploration (Clash of Clans)  
 - Real-world coordinate puzzle-solving  
+
 
 
