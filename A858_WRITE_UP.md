@@ -104,7 +104,7 @@ The hardest fragment to obtain.
 ---
 
 ## 🧩 Step 4: Assembling the QR Code
-- Once we had all **four QR fragments**, we stitched them together to form a **complete QR code**.  
+- Once we had all **four QR fragments**, we stitched them together to form a [FINAL QR](https://drive.google.com/file/d/1klGZn2PjDB9GcJmjq-VJ2EcSLkQje9lu/view?usp=drive_link)  
 - Scanning this QR redirected us to a **website**.  
 - On the site, we received a **string** which we had to upload back to the same site (linked via the subreddit dashboard).  
 
@@ -127,6 +127,7 @@ The hardest fragment to obtain.
 - Google Drive exploration  
 - Clan chat exploration (Clash of Clans)  
 - Real-world coordinate puzzle-solving  
+
 
 
 
