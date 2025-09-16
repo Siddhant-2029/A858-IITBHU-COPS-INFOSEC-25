@@ -8,7 +8,7 @@ This repository contains the complete solution write-up for the **first-ever CTF
 - The challenge began with a registration link: [team-registration-a858.vercel.app](https://team-registration-a858.vercel.app/)  
   (shared in the Discord announcement channel).  
 - After registration, we received credentials for login.  
-- Along with the registration link, we were also provided with an **AAA.TXT file** containing a hint related to **ASCII values**.
+- Along with the registration link, we were also provided with an [AAA.TXT file](https://drive.google.com/file/d/1o4_DIj9gkozQKG-ywghtdQaR8ex9NSFp/view?usp=sharing) containing a hint related to **ASCII values**.
 
 ---
 
@@ -36,14 +36,14 @@ This is where the **real challenge** began: finding the **4 pieces of a QR code*
 
 ## 🧩 Step 3: Finding QR Code Fragments
 
-### 🔹 QR Piece 2
+### 🔹 [QR Piece 2](https://drive.google.com/file/d/1zJweWEFbkHMhip4J5ViQvFXBcUOgTbVV/view?usp=sharing)
 - Found in a Reddit post titled **“Messi better”**.  
 - In the comment section, the profile picture of user **Impossible_Fee7948** contained the QR code fragment.  
 - This was relatively easy to spot.  
 
 ---
 
-### 🔹 QR Piece 3
+### 🔹  [QR Piece 3](https://drive.google.com/file/d/1zJweWEFbkHMhip4J5ViQvFXBcUOgTbVV/view?usp=sharing)
 - Found in a Reddit post titled **“Help needed”**, which showed a picture of a screen.  
 - In that post, we noticed another subreddit mentioned: **Ali3n1nva5i0n**.  
 - Opening that subreddit, we found a post titled **“There you go”**, which directly contained **QR Piece 3**.  
@@ -51,7 +51,7 @@ This is where the **real challenge** began: finding the **4 pieces of a QR code*
 
 ---
 
-### 🔹 QR Piece 1
+### 🔹  [QR Piece 1](https://drive.google.com/file/d/1zJweWEFbkHMhip4J5ViQvFXBcUOgTbVV/view?usp=sharing)
 This was one of the trickiest parts.  
 
 1. In a Reddit post titled **“Found a new cipher! The game of secrets just got fishy”**, we were given a **Python code snippet** that could decode encoded text.  
@@ -80,7 +80,7 @@ This was already a tough challenge, but it got even harder with the last piece.
 
 ---
 
-### 🔹 QR Piece 4
+### 🔹  [QR Piece 4](https://drive.google.com/file/d/1zJweWEFbkHMhip4J5ViQvFXBcUOgTbVV/view?usp=sharing)
 The hardest fragment to obtain.  
 
 1. After re-checking several Reddit posts, we carefully examined **all pictures and videos**.  
@@ -127,4 +127,5 @@ The hardest fragment to obtain.
 - Google Drive exploration  
 - Clan chat exploration (Clash of Clans)  
 - Real-world coordinate puzzle-solving  
+
 
