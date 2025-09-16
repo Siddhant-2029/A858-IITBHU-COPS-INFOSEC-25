@@ -73,7 +73,7 @@ This was one of the trickiest parts.
 
 5. Inside the Google Drive, we found a **photo**.  
 - The background showed a **tree near one of the grounds of IIT BHU**.  
-- We went to the spot, found the tree, and saw the QR code pasted on it.  
+- We went to the spot, found the  [TREE](https://drive.google.com/file/d/1-KrWJJ0jxRNA5SZwkUh-E2DAfLANvSfM/view?usp=sharing), and saw the QR code pasted on it.  
 - Scanning it gave us **QR Piece 1**.  
 
 This was already a tough challenge, but it got even harder with the last piece.  
@@ -93,10 +93,10 @@ The hardest fragment to obtain.
 - In the **guild chat**, someone commented: *“Demon Slayer is op”*.  
 - This hinted at checking a **Demon Slayer video**.  
 
-4. From the video, we extracted **longitude coordinates**:  25° 15′ 45.6″
+4. From the video, we extracted  [LATITUDE COORDINATE](https://drive.google.com/file/d/10Gx5LNN2vRhTVdqCqlvNY2Jn0VoeAwAn/view):  25° 15′ 45.6″ N
 
 
-5. To find the latitude, we revisited the **clan description**, where it was directly provided.  
+5. To find the longitude: 82° 59' 18.8" E, we revisited the [CLAN DESCRIPTION](https://drive.google.com/file/d/17fIJPpXKbgVZs-Jhe0ew5DKp5wjHHVZD/view?usp=sharing), where it was directly provided.  
 
 6. Combining longitude and latitude pointed us to a location **near the jet in our campus**.  
 - On reaching the location, we found the **last QR piece (QR 4)**.  
@@ -127,6 +127,7 @@ The hardest fragment to obtain.
 - Google Drive exploration  
 - Clan chat exploration (Clash of Clans)  
 - Real-world coordinate puzzle-solving  
+
 
 
 
